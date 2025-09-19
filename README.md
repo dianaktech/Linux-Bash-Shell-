@@ -15,7 +15,7 @@ Checking and updating these permissions will help keep the system secure.
 <img src="https://imgur.com/IXaKZHV.png" height="700%" width="70%" alt="NV"/>
 <img src="https://imgur.com/kXqM4bt.png" height="80%" width="80%" alt="RG"/>
 
-<h2>Describe the permissions string </h2>
+<h2>Describing the permissions string </h2>
 
  <b>The 10-character string can be deconstructed to determine who is authorized to access the file and their specific permissions. The characters and what they represent are as follows:
 - <b>1st character: This character is either a d or hyphen (-) and indicates the file type. If it’s a d, it’s a directory. If it’s a hyphen (-), it’s a regular file. </b>
